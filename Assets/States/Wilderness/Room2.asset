@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e11edd71e6380645a5f14ee4ca6102c, type: 3}
+  m_Name: Room2
+  m_EditorClassIdentifier: 
+  storyText: 'Though your stomach is growling, you would really like a way out of
+    this cold and a chance to sleep at night feeling safe. Though you didn''t bring
+    any tools, you may find some materials in the area to help. Next begs the question,
+    what should we make the house out of?
+
+    1. Wood
+
+    2. Dirt'
+  nextStates:
+  - {fileID: 11400000, guid: abb1512926a1b3746bf42e6de80ba125, type: 2}
+  - {fileID: 11400000, guid: eef78f5bb304551459379f4e22c9430b, type: 2}

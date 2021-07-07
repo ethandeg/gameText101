@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e11edd71e6380645a5f14ee4ca6102c, type: 3}
+  m_Name: 0
+  m_EditorClassIdentifier: 
+  storyText: 'Welcome to my first game! It is a choose your own adventure inspired
+    off of my friend and my agreement that if one of use is not married or have a
+    kid by the age of 30, then we need to go to Greenland on a trip to attempt to
+    survive. Neither of us having any survival skills, obviously that won''t work
+    well. I am married, however he is not and doesn''t have much time to fix that!
+
+
+    Playing
+    is simple, you just click the corresponding button for the action you want to
+    take and pray that you don''t die.
+
+
+    Click Q at anytime to quit.
+
+
+    Click
+    "1" to get started!'
+  nextStates:
+  - {fileID: 11400000, guid: aa388b38cd8e6534a8f2b3d840d5bc18, type: 2}

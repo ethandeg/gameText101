@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e11edd71e6380645a5f14ee4ca6102c, type: 3}
+  m_Name: Room1
+  m_EditorClassIdentifier: 
+  storyText: 'You tell your best friend that you think it is best to get some food
+    in your system. Luckily he agrees. You look around the baren, frozen hell and
+    come up empty handed with ideas on obtaining nutrients. You decide to stick to
+    the basics, should we:
+
+    1. Try to hunt animals
+
+    2. Attempt to forage
+    for food.'
+  nextStates:
+  - {fileID: 11400000, guid: 4910a6f9e07fc17498111477a0e2397b, type: 2}
+  - {fileID: 11400000, guid: f0df941409535da429f5796504faddd9, type: 2}

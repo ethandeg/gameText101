@@ -23,3 +23,6 @@ MonoBehaviour:
     Food
 
     2.Shelter'
+  nextStates:
+  - {fileID: 11400000, guid: ee36034b0513ffd4aaa3fad99ea27d4b, type: 2}
+  - {fileID: 11400000, guid: 21a80d8439076b14cb28ad2e12c11e05, type: 2}
