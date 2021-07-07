@@ -12,4 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e11edd71e6380645a5f14ee4ca6102c, type: 3}
   m_Name: StartingState
   m_EditorClassIdentifier: 
-  storyText: 
+  storyText: 'You are freezing, you are starving. All you see around you is the snow
+    covered hills and clouds. What started as a funny joke when you are a teenager
+    has turned into a suicide pact with your best friend. You are in the heartland
+    of Greenland and your task is to find a way off this hellish island. Though baby
+    steps first. What is more important, forging for food or building a shelter?
+
+
+    1.
+    Food
+
+    2.Shelter'
